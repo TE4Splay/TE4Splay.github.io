@@ -12,7 +12,7 @@ body {
 
 .header {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .header h1 {
@@ -24,7 +24,7 @@ body {
 
 .header h2 {
     font-family: 'Verdana', Times, serif;
-    font-size: 30px;
+    font-size: 25px;
     margin: 0;
     color: #ffffff;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 .main-logo {
-    width: 600px; /* Tamaño más grande */
+    width: 650px; /* Tamaño más grande */
     height: auto;
     margin-bottom: 50px;
 }
@@ -62,7 +62,7 @@ body {
 }
 
 .button img {
-    width: 300px; /* Tamaño de los logos pequeños */
+    width: 320px; /* Tamaño de los logos pequeños */
     height: auto;
     border-radius: 5px;
 }
