@@ -109,6 +109,7 @@ body {
   .center-image img {
       width: 650px;
       height: auto;
-      border-radius: 10px;
+      border-radius: 5px;
+      margin-bottom: 50px;
     }
 .button:
