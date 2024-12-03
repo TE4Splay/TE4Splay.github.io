@@ -65,7 +65,7 @@ body {
 }
 
    .box {
-      text-align: justify;
+      text-align: center;
       background: #fff;
       border: 1px solid #ddd;
       border-radius: 5px;
@@ -112,6 +112,7 @@ body {
     }
 
 .textcenter {
+          font-size: 18px;
       text-align: center;
 }
 
