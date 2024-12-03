@@ -67,12 +67,32 @@ body {
     border-radius: 5px;
 }
 
-.box a {
-      display: flex-inline;
+   .box {
+      text-align: center;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 15px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      max-width: 300px;
+    }
+
+    .box img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+
+    .box a {
+      display: block;
       margin: 10px 0;
       text-decoration: none;
       color: #007BFF;
       font-weight: bold;
     }
 
+    .box p {
+      color: #555;
+      font-size: 14px;
+    }
 .button:
