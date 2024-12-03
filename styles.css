@@ -32,8 +32,8 @@ body {
 .header p {
     font-family: 'Verdana', Times, serif;
     font-size: 14px;
-    margin: 0;
-    color: #ffffff;
+    margin: 10;
+    color: #555;
 }
 
 .container {
