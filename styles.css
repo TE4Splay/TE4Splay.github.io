@@ -30,7 +30,7 @@ body {
 }
 
 .container {
-
+    font-family: Aptos, sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -94,6 +94,7 @@ body {
     }
 
     .box p {
+    font-family: Aptos, sans-serif;
       color: #555;
       font-size: 16px;
     }
