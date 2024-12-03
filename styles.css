@@ -67,4 +67,12 @@ body {
     border-radius: 5px;
 }
 
+.box a {
+      display: block;
+      margin: 10px 0;
+      text-decoration: none;
+      color: #007BFF;
+      font-weight: bold;
+    }
+
 .button:
