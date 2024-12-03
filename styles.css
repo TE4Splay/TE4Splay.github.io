@@ -95,4 +95,10 @@ body {
       color: #555;
       font-size: 14px;
     }
+
+  .center-image img {
+      width: 200px;
+      height: auto;
+      border-radius: 10px;
+    }
 .button:
