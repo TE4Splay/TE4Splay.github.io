@@ -110,4 +110,9 @@ body {
       border-radius: 5px;
       margin-bottom: 50px;
     }
+
+.textcenter {
+      text-align: center;
+}
+
 .button:
