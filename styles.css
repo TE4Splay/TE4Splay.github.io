@@ -19,14 +19,14 @@ body {
     font-family: 'Verdana', Times, serif;
     font-size: 50px;
     margin: 0;
-    color: #333;
+    color: #ffffff;
 }
 
 .header h2 {
     font-family: 'Verdana', Times, serif;
     font-size: 30px;
     margin: 0;
-    color: #333;
+    color: #ffffff;
 }
 
 .container {
@@ -41,7 +41,7 @@ body {
 }
 
 .main-logo {
-    width: 500px; /* Tamaño más grande */
+    width: 600px; /* Tamaño más grande */
     height: auto;
     margin-bottom: 50px;
 }
@@ -62,7 +62,7 @@ body {
 }
 
 .button img {
-    width: 120px; /* Tamaño de los logos pequeños */
+    width: 300px; /* Tamaño de los logos pequeños */
     height: auto;
     border-radius: 5px;
 }
