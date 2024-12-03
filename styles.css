@@ -68,7 +68,7 @@ body {
 }
 
 .box a {
-      display: block;
+      display: flex-inline;
       margin: 10px 0;
       text-decoration: none;
       color: #007BFF;
