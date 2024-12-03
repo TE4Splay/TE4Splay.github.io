@@ -42,11 +42,6 @@ body {
     justify-content: space-around;    
 }
 
-.main-logo img {
-    width: 650px; /* Tamaño más grande */
-    height: auto;
-    margin-bottom: 50px;
-}
 
 .buttons {
     display: flex;
