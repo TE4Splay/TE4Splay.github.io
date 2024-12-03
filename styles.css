@@ -118,6 +118,13 @@ body {
       margin-bottom: 50px;
     }
 
+  .centerimagesmall img {
+      width: auto;
+      height: 100px;
+      border-radius: 5px;
+      margin-bottom: 50px;
+    }
+
 .textcenter {
           font-size: 18px;
       text-align: center;
