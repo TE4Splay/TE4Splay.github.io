@@ -125,6 +125,19 @@ body {
       margin-bottom: 50px;
     }
 
+.title-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    min-height: 40px; /* Adjust this value as needed */
+    flex-wrap: wrap;
+}
+
+.textcenter {
+    margin: 0; /* Remove default margins */
+}
+
 .textcenter {
           font-size: 18px;
       text-align: center;
